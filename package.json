@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot",
+  "name": "TrzzBotz",
   "version": "9.0.9",
-  "description": "WhatsApp bot",
+  "description": "TrzzBotz",
   "zeeone": "zeeone.js",
   "directories": {
     "lib": "lib"
